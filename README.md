@@ -10,7 +10,8 @@ Please type the math operation you would like to complete:
 - for subtraction a subtraction sign 
 * for multiplication a star sign 
 / for division a slash sign
-''')
+ 
+
 #this is where variables are defined
 
 number_1 = int(input('Enter your first number: '))

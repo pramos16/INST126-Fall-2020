@@ -36,6 +36,8 @@ elif operation == '*':
 elif operation == '/':
     print('{} / {} = '.format(number_1, number_2))
     print(number_1 / number_2)
+    
+#if none of the above work we use else 
 
 else:
     print('You have not typed a valid operator,.')
